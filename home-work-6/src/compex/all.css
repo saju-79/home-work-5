@@ -26,3 +26,26 @@
     border: none;
     border-radius: 8px ;
   }
+  .choice-card-1{
+    width: 100px ;
+    border-radius: 4px ;
+  }
+  .choice-card-2{
+   display:flex ;
+   
+   
+   gap: 12px;
+   
+  }
+  .delete{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 12px ;
+
+  }
+  .delete:hover{
+    background-color: blue;
+    
+  }
