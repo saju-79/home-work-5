@@ -1,0 +1,28 @@
+.card-a{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap:15px;
+    
+  }
+  .card-b{
+  
+   margin-bottom: 12px;
+   border-radius: 8px ;
+  
+   width: 200px; 
+
+  }
+  .card-c{
+    border:2px solid rgb(221, 129, 157) ;
+    border-radius: 12px ;
+    padding: 16px ;
+    
+
+  }
+  .button-color{
+    padding: 12px ;
+    color: azure;
+    background-color: rgb(59, 57, 57);
+    border: none;
+    border-radius: 8px ;
+  }
